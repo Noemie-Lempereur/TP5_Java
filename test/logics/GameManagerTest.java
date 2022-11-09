@@ -1,0 +1,4 @@
+package logics;
+
+class GameManagerTest {
+}
