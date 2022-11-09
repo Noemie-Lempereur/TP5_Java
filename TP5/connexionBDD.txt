@@ -1,4 +1,0 @@
-URL: "jdbc:mysql://10.10.57.5/Ravenduck"
-user: "Ravenduck"
-password: "RHGZuAf7bPuQM5Y"
-
